@@ -11,4 +11,4 @@ Machine Learning Engineer. I build fast, scalable AI systems—LLM inference, di
 - **ChatTree:** Actually making long ChatGPT chats usable.  
 - More.
 
-[GitHub](#) • [LinkedIn](#) • [X](#)
+[X](https://x.com/rikardradovac) • [LinkedIn](https://www.linkedin.com/in/rikard-radovac-433099133/)  •  [Me](https://rikardradovac.com/)
