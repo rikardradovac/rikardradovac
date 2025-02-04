@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**rikardradovac/rikardradovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Machine Learning Engineer. I build fast, scalable AI systems—LLM inference, diffusion models, and distributed infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built LLM inference engines serving 1k+ req/min.  
+- Engineered distributed speech-to-text pipelines (20k+ recordings/day).  
+- Designed real-time clustering for millions of data points.
+
+**Stuff I've built**  
+- **Maze Solver (Diffusion Model):** Diffusion model that generates maze solutions frame-by-frame.  
+- **ChatTree:** Actually making long ChatGPT chats usable.  
+- More.
+
+[GitHub](#) • [LinkedIn](#) • [X](#)
