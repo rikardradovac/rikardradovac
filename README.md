@@ -4,7 +4,7 @@ Machine Learning Engineer. I build fast, scalable AI systems—LLM inference, di
 
 **Stuff I've built**  
 - Diffusion model that generates maze solutions frame-by-frame.
-- Chrome extension that actually makes long ChatGPT chats usable.  
+- [Chrome extension](https://chromewebstore.google.com/detail/ChatTree/ichiiknkackionkhdadajbffjmfhkhmn) that actually makes long ChatGPT chats usable.  
 - LLM inference engines serving 1k+ req/min.  
 - Distributed speech-to-text pipelines (20k+ recordings/day).  
 - Real-time clustering for millions of data points.
